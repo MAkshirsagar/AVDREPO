@@ -1,0 +1,15 @@
+{
+	"name": "avddevgit",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "28ea4172-1ff1-4fbc-b3ef-b608247ccddf",
+		"tenantId": "f738a307-ec37-47de-866b-33b3bba538f6"
+	}
+}
